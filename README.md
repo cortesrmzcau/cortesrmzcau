@@ -14,7 +14,7 @@ Me gusta realizar proyectos con diferentes tecnologías con la finalidad de segu
 [![Oracle](https://img.shields.io/badge/Oracle_19c-c94634?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![Docker](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![aws](https://img.shields.io/badge/aws-ff9800?style=for-the-badge&logo=aws&logoColor=white&labelColor=101010)]()
-[![jenkis](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()
+[![jenkis](https://img.shields.io/badge/jenkis-134d63?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=101010)]()
 [![gitlab](https://img.shields.io/badge/gitlab-fc6b0e?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)]()
 [![postman](https://img.shields.io/badge/postman-fd6c35?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)]()
 [![jmeter](https://img.shields.io/badge/jmeter-d22128?style=for-the-badge&logo=jmeter&logoColor=white&labelColor=101010)]()
